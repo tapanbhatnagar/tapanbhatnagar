@@ -5,9 +5,9 @@
 <p><em>Senior Software Enginner at <a href="https://www.makemytrip.com">Makemytrip India</a>
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> </br>
 Prospective Student at <a href="https://vt.edu/">Virginia Tech</a>
-<img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </em></p>
 
+[![Discord](https://img.shields.io/discord/591914197219016707.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/rFxKGmyn)
 [![Linkedin: Tapan](https://img.shields.io/badge/-tapan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/tapan212/)](https://www.linkedin.com/in/tapan212) 
 [![GitHub Tapan](https://img.shields.io/github/followers/tapanbhatnagar?label=follow&style=social)](https://github.com/tapanbhatnagar)
 [![Instagram Badge](https://img.shields.io/badge/-tapanbhatnagar-blue?style=social&logo=Instagram&link=https://www.instagram.com/tapanbhatnagar)](https://www.instagram.com/tapanbhatnagar) 
